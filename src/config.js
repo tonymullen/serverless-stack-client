@@ -1,4 +1,6 @@
 const config = {
+  STRIPE_KEY: "pk_test_51HpigZJlfyD55XDRr3uWmkW6QxtcZ4MIa15ImMXKxPuiFIkdCCup0yFRcKSZZRHuwdQg7PbFOjrU0nL0xTXt5JI700EYWpW1Ce",
+  MAX_ATTACHMENT_SIZE: 5000000,
   s3: {
     REGION: "us-east-1",
     BUCKET: "mullen-notes-app-upload",
