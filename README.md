@@ -1,7 +1,10 @@
 # Notes App Client for Serverless Stack Tutorial
 
-This is the repo for the Notes App Client portion of the [Serverless Stack](https://serverless-stack.com/) tutorial. The corresponding API repo is [here](https://github.ccs.neu.edu/CS-7680-SEA-Spring2021/TonyMullen-Serverless-NotesAPI)
+This is the repo for the Notes App Client portion of the [Serverless Stack](https://serverless-stack.com/) tutorial. The corresponding API repo is at
 
+[https://github.ccs.neu.edu/CS-7680-SEA-Spring2021/TonyMullen-Serverless-NotesAPI](https://github.ccs.neu.edu/CS-7680-SEA-Spring2021/TonyMullen-Serverless-NotesAPI)
+
+For reference, boilerplate readme content is below:
 
 # Getting Started with Create React App
 
